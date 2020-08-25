@@ -1,2 +1,2 @@
 # helloworld
-normal starting program in all languages
+Helloo world program for github actions pushing to s3 bucket.
